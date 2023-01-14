@@ -1,0 +1,36 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+body {
+    background-image: url('BackgroundImage.png');
+}
+
+.EnterChat {
+    position: absolute;
+    margin: 10px;
+    padding: 5px;
+    height: 5%;
+    width: 35%;
+    bottom: 40%;
+    right: 35%;
+}
+
+.verifyButton {
+    position: absolute;
+    margin: 10px;
+    padding: 5px;
+    height: 8%;
+    width: 10%;
+    bottom: 40%;
+    right: 25%;
+}
+
+.heading {
+    position: absolute;
+    color: #0e18db;
+    right: 35%;
+}
